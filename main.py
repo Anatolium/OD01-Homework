@@ -19,9 +19,9 @@ def is_palindrome(some_string):
 
 
 print(is_palindrome("Эта строка не является палиндромом"))
+print(is_palindrome("Утро поползло по порту"))
 print(is_palindrome("Дорого небо, да надобен огород"))
 print(is_palindrome("Ешь немытого ты меньше!"))
-print(is_palindrome("Утро поползло по порту"))
 print()
 print(is_palindrome("Эта строка тоже не является палиндромом"))
 print(is_palindrome("Мама дала ситро, торт и сала дамам???"))
